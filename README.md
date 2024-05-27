@@ -1,10 +1,21 @@
-# HIMS-Hospital-Information-Management-System
-Introduction
-Welcome to the HIMS (Hospital Information Management System) Project. This project involves creating and managing a database using SQL Server, with a focus on understanding different database entities, table creation, data insertion, and more.
-#skills include:
-1. Database creation and management
-2. Understanding different database entities
-3. Writing and executing SQL queries
-4. Handling large datasets
-#Tools and Technologies
-SQL Server: We use SQL Server Management Studio (SSMS) for database management and operations.
+# HIMS (Hospital Information Management System) Project
+
+## Introduction
+This project involves creating and managing a comprehensive database for a Hospital Information Management System using SQL Server. It covers key aspects such as database creation, table setup, massive data insertion, and SQL querying.
+
+## Modules Description
+This project encompasses various modules that cover essential aspects of database management and SQL Server usage.
+
+## Database
+The core of this project is the database, designed to handle a large volume of data efficiently.
+
+## Skills included:
+- Database creation and management
+- Understanding different database entities
+- Writing and executing SQL queries
+- Handling large datasets
+
+## Tools and Technologies
+- **SQL Server**: We use SQL Server Management Studio (SSMS) for database management and operations.
+
+
